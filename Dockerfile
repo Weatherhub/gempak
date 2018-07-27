@@ -1,4 +1,4 @@
-FROM jcsda/docker_base
+FROM weatherhub/lr_base
 LABEL maintainer "Xin Zhang <xin.zhang@longrunweather.com>"
 
 # install basic tools
